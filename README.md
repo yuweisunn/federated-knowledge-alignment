@@ -1,4 +1,4 @@
-# federated-transfer-learning-pytorch
+# multi-source domain adaptation based on federated knowledge alignment
 
 ## Table of Contents
 * [General information](#general-information)
