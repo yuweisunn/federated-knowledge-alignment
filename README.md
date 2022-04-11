@@ -9,7 +9,7 @@
 ## General information
 FedKA that consists of three building blocks, i.e., features disentangler, embedding matching, and federated voting, aims to improve the global model’s generality in tackling an unseen task with knowledge transferred from different clients’ model learning.
 
-<img src="fedka.png" width="100%"/>
+<img src="fedka.png" width="80%" class="center"/>
 
 ## Running the systems
 The systems can be run from the terminal by simply typing:
