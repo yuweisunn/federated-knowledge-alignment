@@ -13,8 +13,8 @@ FedKA that consists of three building blocks, i.e., features disentangler, embed
 </p>
 
 ## Running the systems
-The systems can be run with the Jupyter Notebook "FedKA.ipynb".
+The systems in the Digit-Five tasks can be run with the Jupyter Notebook "FedKA-Digit-Five.ipynb".
+The dataset can be downloaded from [Digit-Five.](https://drive.google.com/drive/folders/1nwa-9TPm_-pZsE9uNalaDS909LXNaFjT?usp=sharing)
 
 ## Further readings
 * [Decentralized Deep Learning for Multi-Access Edge Computing: A Survey on Communication Efficiency and Trustworthiness](https://www.techrxiv.org/articles/preprint/Decentralized_Deep_Learning_for_Multi-Access_Edge_Computing_A_Survey_on_Communication_Efficiency_and_Trustworthiness/16691230), Yuwei Sun et al., IEEE Transactions on Artificial Intelligence.  
-
