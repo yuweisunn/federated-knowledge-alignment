@@ -16,5 +16,17 @@ FedKA that consists of three building blocks, i.e., features disentangler, embed
 The systems in the Digit-Five tasks can be run with the Jupyter Notebook "FedKA-Digit-Five.ipynb".
 The dataset can be downloaded from [Digit-Five.](https://drive.google.com/drive/folders/1nwa-9TPm_-pZsE9uNalaDS909LXNaFjT?usp=sharing)
 
+## Citation
+If this repository is helpful for your research or you want to refer the provided results in this work, you could cite the work using the following BibTeX entry:
+
+```
+@article{sun2022fedka,  
+  author = {Sun, Yuwei and Chong, Ng and Hideya, Ochiai},
+  title = {Feature Distribution Matching for Federated Domain Generalization},
+  journal = {ACML},
+  year = {2022}
+}
+```
+
 ## Further readings
 * [Decentralized Deep Learning for Multi-Access Edge Computing: A Survey on Communication Efficiency and Trustworthiness](https://www.techrxiv.org/articles/preprint/Decentralized_Deep_Learning_for_Multi-Access_Edge_Computing_A_Survey_on_Communication_Efficiency_and_Trustworthiness/16691230), Yuwei Sun et al., IEEE Transactions on Artificial Intelligence.  
