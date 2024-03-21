@@ -1,4 +1,4 @@
-## This is a PyTorch implementation of the paper [Multi-Source Domain Adaptation Based on Federated Knowledge Alignment](https://arxiv.org/abs/2203.11635).
+## This is a PyTorch implementation of the paper [Feature Distribution Matching for Federated Domain Generalization (ACML 2022)](https://arxiv.org/abs/2203.11635).
 
 ## Table of Contents
 * [General information](#general-information)
